@@ -1,5 +1,5 @@
 
--Hi 👋 My name is Zafar Ansary
+Hi 👋 My name is Zafar Ansary
 =============================
 
 Computer Science student at University of London (ML/AI Specialization)
