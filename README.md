@@ -11,7 +11,7 @@ From a young age, I have been fascinated by the dynamic and rapidly advancing fi
 * ✉️  You can contact me at [ansary.zafar@gmail.com](mailto:ansary.zafar@gmail.com)
 * 🧠  I'm learning NLP, Intelligent Signal Processing, Machine learning and Neural Networks
 * 🤝  I'm open to collaborating on Pytorch , opencv projects
-* ⚡  I love my morning jog and nature is my happy place. I also have a vineyard and enjoy this age-old hobby.
+* ⚡  I love my morning jog and nature is my happy place. I also have a vineyard and I really enjoy this age-old hobby.
 
 ### Skills
 
