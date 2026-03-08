@@ -2,7 +2,7 @@
 Hi 👋 My name is Zafar Ansary
 =============================
 
-BSc in Computer Science, University of London (ML/AI Specialization)
+BSc in Computer Science, AI & Machine Learning, University of London 
 -----------------------------------------------------------------------
 
 From a young age, I have been fascinated by the dynamic and rapidly advancing field of technology. My curiosity was ignited when I first explored the components and peripherals of my father's desktop motherboard, and it has only grown stronger over the years. Today, I dedicate countless hours to analysing complex algorithms and designing systems to address real-world challenges. My programming projects are meticulously crafted from the ground up, encompassing thorough planning, ideation, design, and implementation. I adhere to agile methodologies and a test-driven development pipeline to ensure the delivery of robust and efficient solutions.
