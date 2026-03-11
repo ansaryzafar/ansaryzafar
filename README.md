@@ -10,7 +10,7 @@ From a young age, I have been fascinated by the dynamic and rapidly advancing fi
 * 🌍  I'm based in London
 * ✉️  You can contact me at [ansary.zafar@gmail.com](mailto:ansary.zafar@gmail.com)
 * 🧠  I'm currently working on MACHINE LEARNING and DEEP LEARNING projects mainly in AI in healthcare and XAI
-* 🤝  I'm open to collaborating on NLP, Computer Vision and Generative AI projects
+* 🤝  I'm open to collaborating on NLP, Deep Learning and Generative AI projects
 * ⚡  I love my morning jog and nature is my happy place. I also have a vineyard and I really enjoy this age-old hobby.
 
 ### Skills
