@@ -1,17 +1,132 @@
+# Hi 👋 I'm Zafar Ansary
 
-Hi 👋 My name is Zafar Ansary
-=============================
+## AI & Machine Learning Engineer | Building Intelligent, Explainable & Production-Oriented Systems
 
-BSc in Computer Science, AI & Machine Learning, University of London 
------------------------------------------------------------------------
+**BSc Computer Science, AI & Machine Learning — University of London**
 
-From a young age, I have been fascinated by the dynamic and rapidly advancing field of technology. My curiosity was ignited when I first explored the components and peripherals of my father's desktop motherboard, and it has only grown stronger over the years. Today, I dedicate countless hours to analysing complex algorithms and designing systems to address real-world challenges. My programming projects are meticulously crafted from the ground up, encompassing thorough planning, ideation, design, and implementation. I adhere to agile methodologies and a test-driven development pipeline to ensure the delivery of robust and efficient solutions.
+I build AI and machine learning systems that move beyond experimentation toward **reliable, explainable, and practical solutions for real-world problems**.
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [ansary.zafar@gmail.com](mailto:ansary.zafar@gmail.com)
-* 🧠  I'm currently working on MACHINE LEARNING and DEEP LEARNING projects mainly in AI in healthcare and XAI
-* 🤝  I'm open to collaborating on NLP, Deep Learning and Generative AI projects
-* ⚡  I love my morning jog and nature is my happy place. I also have a vineyard and I really enjoy this age-old hobby.
+My work spans **machine learning, deep learning, generative AI, data science, explainable AI, and end-to-end ML engineering**, with a particular interest in applying AI to complex and high-impact domains such as healthcare.
+
+I approach AI development as an engineering problem rather than simply a modelling exercise. My projects typically move through the full lifecycle:
+
+**Problem definition → data → feature engineering → model development → evaluation → explainability → validation → deployment → monitoring**
+
+I am particularly interested in the gap between a model that performs well in a notebook and an AI system that can be **trusted, integrated into an existing workflow, and maintained in the real world**.
+
+One of my principal projects is **ClinicalVision AI**, an AI-powered breast cancer detection and radiologist decision-support system. The project explores deep learning for medical imaging alongside **explainability, uncertainty estimation, evaluation beyond accuracy, workflow orchestration, auditability, and responsible AI considerations**.
+
+This work has strengthened my understanding that effective AI adoption is not simply about selecting a sophisticated model. It requires understanding the underlying business or clinical problem, data quality, model behaviour, evaluation criteria, human interaction, system architecture, and the operational environment in which the solution will ultimately be used.
+
+### What I Build
+
+- 🧠 **Machine Learning & Deep Learning** — supervised learning, neural networks, transfer learning, model evaluation
+- 🔬 **Explainable & Trustworthy AI** — SHAP, LIME, Grad-CAM, uncertainty estimation and interpretable model behaviour
+- 🤖 **Generative AI & NLP** — LLM-based applications, transformers and intelligent workflows
+- 🏗️ **AI Engineering** — end-to-end ML pipelines, APIs, model serving and production-oriented architecture
+- 📊 **Data & Evaluation** — exploratory analysis, feature engineering, statistical evaluation and model validation
+- 🏥 **Applied AI** — healthcare AI, decision-support systems and human-in-the-loop workflows
+- ⚙️ **Software Engineering** — Python, testing, Git, APIs, databases and structured development practices
+
+### Engineering Philosophy
+
+I am interested in building systems where **model performance and engineering quality reinforce each other**.
+
+That means asking questions beyond:
+
+> *"How accurate is the model?"*
+
+and considering:
+
+> *Can we understand why it made this prediction?*  
+> *How does it behave when uncertainty is high?*  
+> *What happens when the data changes?*  
+> *How does it integrate into an existing workflow?*  
+> *Can the system be tested, monitored and maintained?*  
+> *Where should a human remain in the decision loop?*
+
+My goal is to develop AI systems that are not only technically capable, but **useful, measurable, explainable and designed for responsible adoption**.
+
+### Current Focus
+
+🚀 Building and evaluating **AI/ML systems from first principles**
+
+🔬 Developing **deep learning and explainable AI applications**
+
+🤖 Exploring **Generative AI, LLM applications and intelligent agents**
+
+🏥 Advancing **AI applications in healthcare and decision support**
+
+🏗️ Strengthening **AI architecture, deployment, evaluation and production engineering**
+
+📚 Continuously deepening my understanding of the mathematics and theory behind machine learning
+
+### Technologies
+
+**AI / Machine Learning**
+
+Python · PyTorch · TensorFlow · scikit-learn · MLflow · NumPy · Pandas
+
+**Generative AI / NLP**
+
+Transformers · NLP · LLM applications · Prompt Engineering · AI Agents
+
+**Data**
+
+SQL · PostgreSQL · MongoDB · Data Analysis · Data Visualisation
+
+**Engineering**
+
+FastAPI · REST APIs · Docker · Git · Linux · Testing · CI/CD
+
+**Frontend**
+
+React · TypeScript · JavaScript · HTML · CSS
+
+**Cloud**
+
+Google Cloud · Cloud-based ML workflows
+
+### Selected Work
+
+🔬 **ClinicalVision AI**  
+AI-powered breast cancer detection and radiologist decision-support system exploring deep learning, explainability, uncertainty estimation and clinical workflow integration.
+
+🏠 **Real Estate Price Predictor**  
+Machine learning prediction system with model serving through FastAPI and containerised deployment.
+
+🩺 **Medical Diagnosis Assistant**  
+Machine learning decision-support application incorporating explainability techniques to make model predictions more interpretable.
+
+👥 **Customer Intelligence Platform**  
+Customer segmentation and analytics using unsupervised learning and MLflow-based experiment tracking.
+
+⚡ **Energy Consumption Forecaster**  
+Neural-network-based forecasting system for modelling energy consumption patterns.
+
+### Collaboration
+
+I'm interested in collaborating on projects involving:
+
+**Machine Learning · Deep Learning · Generative AI · NLP · Explainable AI · AI Agents · Healthcare AI · AI Engineering**
+
+I am particularly interested in projects where AI needs to move from **concept and experimentation toward a practical, measurable system**.
+
+### A Little About Me
+
+🌍 Based in London
+
+✉️ [ansary.zafar@gmail.com](mailto:ansary.zafar@gmail.com)
+
+🌿 Nature is where I recharge.
+
+🏃 I enjoy my morning jog.
+
+🍇 I also maintain a vineyard and enjoy the patience and long-term thinking that comes with it.
+
+---
+
+### Always curious. Always building. Occasionally overthinking — usually productively.
 
 ### Skills
 
