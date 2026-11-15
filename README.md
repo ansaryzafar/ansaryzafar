@@ -41,7 +41,9 @@ My goal is to develop AI systems that are not only technically capable, but **us
 | :--- | :--- | :--- |
 | **🤖 Nimbus — Customer Service AI Agent** *(Launching Soon)* | Production-grade autonomous support agent built on AI engineering best practices: decoupled plan-validation gates (`AgentDecision`), conversational query rewriting, hybrid RAG, PII masking, policy-gated write actions, and multi-axis failure evaluation (planning, tool, efficiency). | `Python` `FastAPI` `LangChain` `RAG` `Guardrails` `SQL` |
 | **🔬 [ClinicalVision AI](https://clinicalvision.ai)** | End-to-end breast cancer detection & radiologist decision-support platform featuring a DenseNet-121 ensemble, MC Dropout uncertainty routing, multi-method XAI, 115+ APIs, and 2,743 automated tests. | `TensorFlow` `FastAPI` `React 19` `PostgreSQL` `Docker` `GCP` |
-| **🏠 [Real Estate Valuation Engine](https://github.com)** | Production regression microservice ($R^2 = 0.910$, $\text{MAE} = \$14,298$) engineered to prevent small-dataset overfitting, served via REST API with 31 passing tests. | `scikit-learn` `FastAPI` `Pydantic` `Docker` | 
+
+| **🏠 [Real Estate Valuation Engine](https://github.com)** | Production regression microservice (R² = 0.910, MAE = $14,298) engineered to prevent small-dataset overfitting, served via REST API with 31 passing tests. | `scikit-learn` `FastAPI` `Pydantic` `Docker` |
+
 | **👥 [Customer Intelligence Platform](https://github.com)** | End-to-end customer segmentation (silhouette- & bootstrap-validated K-Means/DBSCAN) and leak-free churn prediction Pipeline with MLflow Model Registry promotion (`Staging` → `Production`), served via FastAPI & batch CLI. | `Python` `scikit-learn` `MLflow` `FastAPI` `Docker` |
 
 | **⚡ [Energy Consumption Forecaster](https://github.com)** | End-to-end energy demand forecasting engine benchmarking shallow vs. deep Keras neural networks (custom callbacks & learning rate finder) against scikit-learn baselines, served via FastAPI and Docker. | `Python` `TensorFlow` `Keras` `scikit-learn` `FastAPI` `Docker` |
