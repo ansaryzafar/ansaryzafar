@@ -75,31 +75,27 @@ Looking to build an **AI agent, RAG knowledge assistant, custom MCP server, or f
 ### Skills
 
 
-<!-- Row 1: Core Languages, ML Frameworks, Full-Stack & Cloud -->
-<p align="left">
-  <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Python" /></a>&nbsp;
-  <a href="https://tensorflow.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="TensorFlow" /></a>&nbsp;
-  <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="PyTorch" /></a>&nbsp;
-  <a href="https://tiangolo.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="FastAPI" /></a>&nbsp;
-  <a href="https://postgresql.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;
-  <a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="MongoDB" /></a>&nbsp;
-  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="TypeScript" /></a>&nbsp;
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="React" /></a>&nbsp;
-  <a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Material UI" /></a>&nbsp;
-  <a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Docker" /></a>&nbsp;
-  <a href="https://google.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Google Cloud" /></a>&nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Git" /></a>
-</p>
+### 🛠️ Core Technical Stack
 
-<!-- Row 2: Agentic AI, RAG & MLOps Specialisations -->
-<p align="left">
-  <a href="https://langchain.com" target="_blank" rel="noreferrer"><img src="https://shields.io" alt="LangChain" /></a>
-  <a href="https://langchain.comlanggraph" target="_blank" rel="noreferrer"><img src="https://shields.io" alt="LangGraph" /></a>
-  <a href="https://modelcontextprotocol.io" target="_blank" rel="noreferrer"><img src="https://shields.io" alt="Model Context Protocol (MCP)" /></a>
-  <a href="https://openai.com" target="_blank" rel="noreferrer"><img src="https://shields.io" alt="RAG & Hybrid Search" /></a>
-  <a href="https://mlflow.org" target="_blank" rel="noreferrer"><img src="https://shields.io" alt="MLflow" /></a>
-  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="https://shields.io" alt="scikit-learn" /></a>
-</p>
+[![Python](https://githubusercontent.com)](https://python.org)
+[![TensorFlow](https://githubusercontent.com)](https://tensorflow.org)
+[![PyTorch](https://githubusercontent.com)](https://pytorch.org)
+[![FastAPI](https://githubusercontent.com)](https://tiangolo.com)
+[![PostgreSQL](https://githubusercontent.com)](https://postgresql.org)
+[![MongoDB](https://githubusercontent.com)](https://mongodb.com)
+[![TypeScript](https://githubusercontent.com)](https://typescriptlang.org)
+[![React](https://githubusercontent.com)](https://reactjs.org)
+[![Material UI](https://githubusercontent.com)](https://mui.com)
+[![Docker](https://githubusercontent.com)](https://docker.com)
+[![Google Cloud](https://githubusercontent.com)](https://google.com)
+[![Git](https://githubusercontent.com)](https://git-scm.com)
+
+[![LangChain](https://shields.io)](https://langchain.com)
+[![LangGraph](https://shields.io)](https://langchain.comlanggraph)
+[![MCP](https://shields.io)](https://modelcontextprotocol.io)
+[![RAG](https://shields.io)](https://openai.com)
+[![MLflow](https://shields.io)](https://mlflow.org)
+[![scikit-learn](https://shields.io)](https://scikit-learn.org)
 
 
 
