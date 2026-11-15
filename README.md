@@ -1,33 +1,11 @@
 # Hi 👋 I'm Zafar Ansary
+### Agentic AI & End-to-End ML Engineer | Turning AI Prototypes into Production Systems
 
-## AI & Machine Learning Engineer | Building Intelligent, Explainable & Production-Oriented Systems
+📍 **London, UK** · 🎓 **BSc Computer Science (AI & ML), University of London** · 💼 **Open to AI/ML Contract & Consulting Roles**
 
-**BSc Computer Science, AI & Machine Learning — University of London**
+Most AI projects die in Jupyter notebooks. I bridge the gap between experimentation and production—architecting **Agentic AI workflows, RAG pipelines, MCP integrations, and full-stack ML systems** that are explainable, tested, and ready for real users.
 
-I build AI and machine learning systems that move beyond experimentation toward **reliable, explainable, and practical solutions for real-world problems**.
-
-My work spans **machine learning, deep learning, generative AI, data science, explainable AI, and end-to-end ML engineering**, with a particular interest in applying AI to complex and high-impact domains such as healthcare.
-
-I approach AI development as an engineering problem rather than simply a modelling exercise. My projects typically move through the full lifecycle:
-
-**Problem definition → data → feature engineering → model development → evaluation → explainability → validation → deployment → monitoring**
-
-I am particularly interested in the gap between a model that performs well in a notebook and an AI system that can be **trusted, integrated into an existing workflow, and maintained in the real world**.
-
-One of my principal projects is **ClinicalVision AI**, an AI-powered breast cancer detection and radiologist decision-support system. The project explores deep learning for medical imaging alongside **explainability, uncertainty estimation, evaluation beyond accuracy, workflow orchestration, auditability, and responsible AI considerations**.
-
-This work has strengthened my understanding that effective AI adoption is not simply about selecting a sophisticated model. It requires understanding the underlying business or clinical problem, data quality, model behaviour, evaluation criteria, human interaction, system architecture, and the operational environment in which the solution will ultimately be used.
-
-### What I Build
-
-- 🧠 **Machine Learning & Deep Learning** — supervised learning, neural networks, transfer learning, model evaluation
-- 🔬 **Explainable & Trustworthy AI** — SHAP, LIME, Grad-CAM, uncertainty estimation and interpretable model behaviour
-- 🤖 **Generative AI & NLP** — LLM-based applications, transformers and intelligent workflows
-- 🏗️ **AI Engineering** — end-to-end ML pipelines, APIs, model serving and production-oriented architecture
-- 📊 **Data & Evaluation** — exploratory analysis, feature engineering, statistical evaluation and model validation
-- 🏥 **Applied AI** — healthcare AI, decision-support systems and human-in-the-loop workflows
-- ⚙️ **Software Engineering** — Python, testing, Git, APIs, databases and structured development practices
-
+---
 ### Engineering Philosophy
 
 I am interested in building systems where **model performance and engineering quality reinforce each other**.
@@ -47,93 +25,82 @@ and considering:
 
 My goal is to develop AI systems that are not only technically capable, but **useful, measurable, explainable and designed for responsible adoption**.
 
-### Current Focus
+### 🚀 What I Build for Clients & Teams
+- **🤖 Agentic AI & Custom GPTs:** Decoupled **plan–validate–execute** agents, tool-calling workflows, and **Model Context Protocol (MCP)** servers using **LangChain** and **LangGraph** with human-in-the-loop approval for state-changing actions.
+- **📚 Production RAG Systems:** Conversational query rewriting, hybrid keyword/vector retrieval, reranking, and citation grounding over proprietary enterprise data.
+- **⚙️ End-to-End AI Deployment:** Full-stack AI applications (**FastAPI, React, TypeScript, PostgreSQL, Redis**) with PII/prompt-injection guardrails, containerised with **Docker** and deployed on **Google Cloud**.
+- **🔬 Explainable & Trustworthy ML:** High-stakes predictive models equipped with **SHAP, LIME, Grad-CAM**, uncertainty quantification, and systematic failure-mode evaluation.
 
-🚀 Building and evaluating **AI/ML systems from first principles**
-
-🔬 Developing **deep learning and explainable AI applications**
-
-🤖 Exploring **Generative AI, LLM applications and intelligent agents**
-
-🏥 Advancing **AI applications in healthcare and decision support**
-
-🏗️ Strengthening **AI architecture, deployment, evaluation and production engineering**
-
-📚 Continuously deepening my understanding of the mathematics and theory behind machine learning
-
-### Technologies
-
-**AI / Machine Learning**
-
-Python · PyTorch · TensorFlow · scikit-learn · MLflow · NumPy · Pandas
-
-**Generative AI / NLP**
-
-Transformers · NLP · LLM applications · Prompt Engineering · AI Agents
-
-**Data**
-
-SQL · PostgreSQL · MongoDB · Data Analysis · Data Visualisation
-
-**Engineering**
-
-FastAPI · REST APIs · Docker · Git · Linux · Testing · CI/CD
-
-**Frontend**
-
-React · TypeScript · JavaScript · HTML · CSS
-
-**Cloud**
-
-Google Cloud · Cloud-based ML workflows
-
-### Selected Work
-
-🔬 **ClinicalVision AI**  
-AI-powered breast cancer detection and radiologist decision-support system exploring deep learning, explainability, uncertainty estimation and clinical workflow integration.
-
-🏠 **Real Estate Price Predictor**  
-Machine learning prediction system with model serving through FastAPI and containerised deployment.
-
-🩺 **Medical Diagnosis Assistant**  
-Machine learning decision-support application incorporating explainability techniques to make model predictions more interpretable.
-
-👥 **Customer Intelligence Platform**  
-Customer segmentation and analytics using unsupervised learning and MLflow-based experiment tracking.
-
-⚡ **Energy Consumption Forecaster**  
-Neural-network-based forecasting system for modelling energy consumption patterns.
-
-### Collaboration
-
-I'm interested in collaborating on projects involving:
-
-**Machine Learning · Deep Learning · Generative AI · NLP · Explainable AI · AI Agents · Healthcare AI · AI Engineering**
-
-I am particularly interested in projects where AI needs to move from **concept and experimentation toward a practical, measurable system**.
-
-### A Little About Me
-
-🌍 Based in London
-
-✉️ [ansary.zafar@gmail.com](mailto:ansary.zafar@gmail.com)
-
-🌿 Nature is where I recharge.
-
-🏃 I enjoy my morning jog.
-
-🍇 I also maintain a vineyard and enjoy the patience and long-term thinking that comes with it.
 
 ---
+
+
+### 🏆 Featured Production Systems
+
+| Project | Impact & Engineering Highlights | Stack |
+| :--- | :--- | :--- |
+| **🤖 Nimbus — Customer Service AI Agent** *(Launching Soon)* | Production-grade autonomous support agent built on AI engineering best practices: decoupled plan-validation gates (`AgentDecision`), conversational query rewriting, hybrid RAG, PII masking, policy-gated write actions, and multi-axis failure evaluation (planning, tool, efficiency). | `Python` `FastAPI` `LangChain` `RAG` `Guardrails` `SQL` |
+| **🔬 [ClinicalVision AI](https://clinicalvision.ai)** | End-to-end breast cancer detection & radiologist decision-support platform featuring a DenseNet-121 ensemble, MC Dropout uncertainty routing, multi-method XAI, 115+ APIs, and 2,743 automated tests. | `TensorFlow` `FastAPI` `React 19` `PostgreSQL` `Docker` `GCP` |
+| **🏠 [Real Estate Valuation Engine](https://github.com)** | Production regression microservice ($R^2 = 0.910$, $\text{MAE} = \$14,298$) engineered to prevent small-dataset overfitting, served via REST API with 31 passing tests. | `scikit-learn` `FastAPI` `Pydantic` `Docker` | 
+| **👥 [Customer Intelligence Platform](https://github.com)** | End-to-end customer segmentation (silhouette- & bootstrap-validated K-Means/DBSCAN) and leak-free churn prediction Pipeline with MLflow Model Registry promotion (`Staging` → `Production`), served via FastAPI & batch CLI. | `Python` `scikit-learn` `MLflow` `FastAPI` `Docker` |
+
+| **⚡ [Energy Consumption Forecaster](https://github.com)** | End-to-end energy demand forecasting engine benchmarking shallow vs. deep Keras neural networks (custom callbacks & learning rate finder) against scikit-learn baselines, served via FastAPI and Docker. | `Python` `TensorFlow` `Keras` `scikit-learn` `FastAPI` `Docker` |
+
+| **🩺 [Medical Diagnosis Assistant](https://github.com)** | Cost-asymmetric cardiovascular & diabetes risk triage system engineered with leak-free SMOTE pipelines, recall-gated threshold tuning ($\text{Recall} \ge 0.85$, $\text{AUC} \ge 0.85$), per-patient SHAP waterfall explanations, and an interactive Streamlit UI. | `Python` `scikit-learn` `SHAP` `Streamlit` |
+
+---
+
+### 🛠️ Core Technical Stack
+* **Agentic & GenAI:** LangChain · LangGraph · MCP (Model Context Protocol) · RAG · Custom GPTs · OpenAI / Anthropic APIs · Prompt Engineering
+* **ML & Explainability:** PyTorch · TensorFlow · scikit-learn · XGBoost · SHAP · LIME · Grad-CAM · MLflow
+* **Backend & Data:** Python · FastAPI · REST APIs · PostgreSQL · MongoDB · Redis · Vector Databases
+* **Frontend & Cloud:** React · TypeScript · Docker · Linux · Git · CI/CD · Google Cloud Platform (GCP)
+
+---
+
+### 🤝 Work With Me
+Looking to build an **AI agent, RAG knowledge assistant, custom MCP server, or full-stack ML product** from zero to deployment?
+- **✉️ Email:** [ansary.zafar@gmail.com](mailto:ansary.zafar@gmail.com)
+- **💼 Upwork / LinkedIn:** Available for scoped contracts, MVPs, and technical consulting.
+
+*Outside the terminal: London runner, nature enthusiast, and vineyard keeper—bringing the same patience and long-term systems thinking to engineering as I do to winemaking.* 🍇
+
+
+
+
+
 
 ### Always curious. Always building. Occasionally overthinking — usually productively.
 
 ### Skills
 
 
+<!-- Row 1: Core Languages, ML Frameworks, Full-Stack & Cloud -->
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+  <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Python" /></a>&nbsp;
+  <a href="https://tensorflow.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="TensorFlow" /></a>&nbsp;
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="PyTorch" /></a>&nbsp;
+  <a href="https://tiangolo.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="FastAPI" /></a>&nbsp;
+  <a href="https://postgresql.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;
+  <a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="MongoDB" /></a>&nbsp;
+  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="TypeScript" /></a>&nbsp;
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="React" /></a>&nbsp;
+  <a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Material UI" /></a>&nbsp;
+  <a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Docker" /></a>&nbsp;
+  <a href="https://google.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Google Cloud" /></a>&nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Git" /></a>
 </p>
+
+<!-- Row 2: Agentic AI, RAG & MLOps Specialisations -->
+<p align="left">
+  <a href="https://langchain.com" target="_blank" rel="noreferrer"><img src="https://shields.io" alt="LangChain" /></a>
+  <a href="https://langchain.comlanggraph" target="_blank" rel="noreferrer"><img src="https://shields.io" alt="LangGraph" /></a>
+  <a href="https://modelcontextprotocol.io" target="_blank" rel="noreferrer"><img src="https://shields.io" alt="Model Context Protocol (MCP)" /></a>
+  <a href="https://openai.com" target="_blank" rel="noreferrer"><img src="https://shields.io" alt="RAG & Hybrid Search" /></a>
+  <a href="https://mlflow.org" target="_blank" rel="noreferrer"><img src="https://shields.io" alt="MLflow" /></a>
+  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="https://shields.io" alt="scikit-learn" /></a>
+</p>
+
 
 
 ### Socials
