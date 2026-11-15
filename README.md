@@ -74,28 +74,21 @@ Looking to build an **AI agent, RAG knowledge assistant, custom MCP server, or f
 
 ### Skills
 
+<p align="left">
+<a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Python" /></a>
+<a href="https://tensorflow.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="PyTorch" /></a>
+<a href="https://typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="React" /></a>
+<a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Material UI" /></a>
+<a href="https://postgresql.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Docker" /></a>
+<a href="https://google.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Git" /></a>
+</p>
 
-### 🛠️ Core Technical Stack
 
-[![Python](https://githubusercontent.com)](https://python.org)
-[![TensorFlow](https://githubusercontent.com)](https://tensorflow.org)
-[![PyTorch](https://githubusercontent.com)](https://pytorch.org)
-[![FastAPI](https://githubusercontent.com)](https://tiangolo.com)
-[![PostgreSQL](https://githubusercontent.com)](https://postgresql.org)
-[![MongoDB](https://githubusercontent.com)](https://mongodb.com)
-[![TypeScript](https://githubusercontent.com)](https://typescriptlang.org)
-[![React](https://githubusercontent.com)](https://reactjs.org)
-[![Material UI](https://githubusercontent.com)](https://mui.com)
-[![Docker](https://githubusercontent.com)](https://docker.com)
-[![Google Cloud](https://githubusercontent.com)](https://google.com)
-[![Git](https://githubusercontent.com)](https://git-scm.com)
-
-[![LangChain](https://shields.io)](https://langchain.com)
-[![LangGraph](https://shields.io)](https://langchain.comlanggraph)
-[![MCP](https://shields.io)](https://modelcontextprotocol.io)
-[![RAG](https://shields.io)](https://openai.com)
-[![MLflow](https://shields.io)](https://mlflow.org)
-[![scikit-learn](https://shields.io)](https://scikit-learn.org)
 
 
 
